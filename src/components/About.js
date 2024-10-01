@@ -9,7 +9,7 @@ export default function About() {
                     style={{ width: '100%', height: 'auto' }}
                     className="object-cover object-center rounded"
                     alt="hero"
-                    src="./me4.svg"
+                    src="./me.svg"
                 />
             </div>
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
