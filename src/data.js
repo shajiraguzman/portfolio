@@ -5,7 +5,7 @@ export const projects = [
       title: "Baby Tracker",
       subtitle: "React Native and Firebase",
       description:
-        "This app allows parents to track feeding times, sleep patterns, and diaper changes for multiple babies. This could potentially provide parents with valuable insights into their baby's routine.",
+        "This app allows parents to track feeding times, sleep patterns, and diaper changes for multiple babies. This provides parents with valuable insights into their baby's routine.",
       image: "./babyTracker.gif",
       link: "https://github.com/kelley-le/baby-tracker",
     },
@@ -21,7 +21,7 @@ export const projects = [
       title: "Study Buddy",
       subtitle: "Javascript and Firebase",
       description:
-        "My very first project where I pulled data from a database. Study buddy is a website created for universty students to share updates, questions, or notes with each other. If a student misses class, they could login to Study Buddy and view any notes that other students shared or updates they missed for their class.",
+        "Study buddy is a website created for universty students to share updates, questions, or notes with each other. If a student misses class they could view any notes that other students shared.",
       image: "./studyBuddy.gif",
       link: "https://github.com/shajiraguzman/studyBuddy",
     },
