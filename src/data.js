@@ -10,10 +10,10 @@ export const projects = [
       link: "https://github.com/kelley-le/baby-tracker",
     },
     {
-      title: "React Tracks",
-      subtitle: "React and Python",
+      title: "Study Buddy",
+      subtitle: "Javascript and Firebase",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "Study buddy is a website created for universty students to share updates, questions, or notes with each other. If a student misses class, they could login to Study Buddy and view any notes that other students shared or updates they missed for their class. Study Buddy was built using HTML, CSS, and JavaScript. A noSQL database was used and Google Firebase APIs.",
       image: "./studyBuddy.gif",
       link: "https://reedbarger.com",
     },
