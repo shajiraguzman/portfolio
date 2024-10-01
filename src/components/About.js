@@ -9,13 +9,13 @@ export default function About() {
                     style={{ width: '100%', height: 'auto' }}
                     className="object-cover object-center rounded"
                     alt="hero"
-                    src="./nobgimage.svg"
+                    src="./me.svg"
                 />
             </div>
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="lg:text-5xl title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             I'm Shajira. 
-            <br className="lg:text-5xl hidden lg:inline-block" />I love to build and create.
+            <br className="lg:text-5xl hidden lg:inline-block" /> I love to build and create.
           </h1>
           <p className="mb-8 leading-relaxed">
 
