@@ -11,10 +11,10 @@ export const projects = [
     },
     {
       title: "The Book Nest",
-      subtitle: "COMING SOON",
+      subtitle: "Figma & Canva",
       description:
-        "A personal project for myself to keep track of my personal library, book wish list, and weekly stats of my reading progress. I am currently analyzing requirements I want and then next is the design phase.",
-      image: "./bookNestLogo.svg",
+        "A personal project for myself to keep track of my personal library, book wish list, and weekly stats of my reading progress. I am currently designing my prototype and structuring my database.",
+      image: "./bookNest.gif",
       link: "",
     },
     {
