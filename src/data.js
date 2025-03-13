@@ -11,9 +11,9 @@ export const projects = [
     },
     {
       title: "The Book Nest",
-      subtitle: "Figma & Canva",
+      subtitle: "React Native and Node.js",
       description:
-        "A personal project for myself to keep track of my personal library, book wish list, and weekly stats of my reading progress. I am currently designing my prototype and structuring my database.",
+        "A personal project for myself to keep track of my personal library, book wish list, and weekly stats of my reading progress. I created this prototype using Figma and Canva. I am currently implementing user logins and book searches.",
       image: "./bookNest.gif",
       link: "",
     },
@@ -29,6 +29,7 @@ export const projects = [
 
 
 export const skills = [
+    "Java",
     "C++",
     "C",
     "React Native",
@@ -36,5 +37,7 @@ export const skills = [
     "Python",
     "Go",
     "JavaScript",
-    "Firebase"
+    "Firebase",
+    "SQL",
+    "NoSQL"
 ];
